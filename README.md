@@ -235,33 +235,6 @@
 
 <div id="5"></div>
 
-# 👫 팀원 소개 및 프로젝트 기간
-
-<table>
-    <tr>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 👑 최홍준 <br>(Full-Stack) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 🙂 김상민 <br>(Full-Stack) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 😎 천우진 <br>(Infra) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 😁 김보라 <br>(Full-Stack) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 🙄 이아진 <br>(Full-Stack) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 😉 권근열 <br>(Full-Stack) </a> <br></td>         
-    </tr>
-    <tr>
-        <td align="center">경매-통신<br/></td>
-        <td align="center">인증/인가, 유저관리<br/></td>
-        <td align="center">서버 배포<br/></td>
-        <td align="center">페이<br/></td>
-        <td align="center">채팅<br/></td>       
-        <td align="center">경매<br/></td>    
-    </tr>
-</table>
-
 
 ### 👫 team vamos : 24.2.19 ~ 24.04.04
 
